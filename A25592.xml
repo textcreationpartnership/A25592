@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Answer to the Earle of Straffords oration the 13th of Aprill, 1641.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25592</idno>
+            <idno type="STC">Wing A3408</idno>
+            <idno type="STC">ESTC R28299</idno>
+            <idno type="EEBO-CITATION">10521523</idno>
+            <idno type="OCLC">ocm 10521523</idno>
+            <idno type="VID">45175</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25592)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45175)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1394:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Answer to the Earle of Straffords oration the 13th of Aprill, 1641.</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Strafford, Thomas Wentworth, --  Earl of, 1593-1641.</term>
+               <term>Treason --  England.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45175:1"/>
+            <pb facs="tcp:45175:1"/>
+            <p>AN ANSVVERE TO THE EARLE OF STRAFFORDS ORATION.</p>
+            <p>
+               <hi>The</hi> 13. <hi>of Aprill,</hi> 1641.</p>
+            <p>Printed in the yeare, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:45175:2"/>
+            <pb n="1" facs="tcp:45175:2"/>
+            <opener>
+               <salute>With your Lordſhips favour,</salute>
+            </opener>
+            <p>IF the ſubvertion of the fundamentalls of Faith be Hereſie, why not as well the ſub<g ref="char:EOLhyphen"/>verſion of the fundamentall Lawes, Trea<g ref="char:EOLhyphen"/>ſon? Shall it be Treaſon to deſtroy the Kings Miniſter? and ſhall that be none that deſtroyes his protector? For the Law protects the King, as well as the King the Lawes: and if Lawes did not ſubſiduate Princes, Kingdoms would totter as foundationleſſe: nay they are indeed, the very ſubſiſtance of Kings.</p>
+            <p>Let it be ſuppoſed, though not granted, that no one perticular make it Treaſon, may not many and ſucceſſive Acts amount it to that height? One graine of poyſon is not mortall, but many together are. Exportati<g ref="char:EOLhyphen"/>on of Sheepe for once is but a Treſpaſſe, but acted a ſecond time is Felony by Statute. Re<g ref="char:EOLhyphen"/>fuſall of the Oath of Supremacy is at firſt not capitall; but refus'd againe, by ſtatute is made Treaſon. And to my weake underſtan<g ref="char:EOLhyphen"/>ding, my Lords, this clearely ſhewes the mind of the Law: one ill act of waving the Law, may be but out of raſhneſſe, out of Ignorance; but a perpetuated practice, ſhewes a prepen<g ref="char:EOLhyphen"/>ſed
+<pb n="2" facs="tcp:45175:3"/>malice, and murther thus acted by the 10. <hi>H.</hi> 7. in <hi>Ireland,</hi> is Treaſon.</p>
+            <p>Be it there be no ſtatute or Common-Law in expreſſe to make it ſo, yet neceſſary infe<g ref="char:EOLhyphen"/>rences, if they bee not certainetyes, are next them; and if the deputed Iudge or Gover<g ref="char:EOLhyphen"/>nour hath power in the buſineſſe of the Sub<g ref="char:EOLhyphen"/>ject, to make the ſway arbitrary, where Law is poſſitive, I know not but hee may doe the ſame in the buſineſſe of the Soveraigne; ſo it may come to pull the Soveraignety from the Prince, and place it on his ſubſtitute, and whether this be Treaſon or no, I leave to your Lordſhips conſideration.</p>
+            <p>'Tis true, <hi>de non apparentibus, &amp; non existen<g ref="char:EOLhyphen"/>tibus, eadem est Ratio,</hi> But my Lords, to make this Treaſon, is not unapparant: a partiall eye will not finde it, but he that lookes, <hi>Intuitu ferio,</hi> may ſee even the Triple Gerion of Trea<g ref="char:EOLhyphen"/>ſon in it, for it cannot be but there is <hi>Laeſa Reſpub. Lex Maiestas,</hi> the Common-wealth is oppreſſed, the Lawes are ſuppreſt, the Prince is ſcandal'd in act, and ſubjected by conſe<g ref="char:EOLhyphen"/>quence to his Denious determinations: and therefore I ſhall without admiration tell you where this fire hath layen thoſe hundred of yeares he ſpeaketh of, even (my Lords) in the honeſter behaviour of other Miniſters of
+<pb n="3" facs="tcp:45175:3"/>State, who have not beene injurious againſt the Lawes, and there ſtill had it beene buried, if his owne nefarious actions had not un-em<g ref="char:EOLhyphen"/>bred it, and fuel'd it anew.</p>
+            <p>Nor can your Sentence be before promul<g ref="char:EOLhyphen"/>gation, ſince even your renowned Progeni<g ref="char:EOLhyphen"/>tors have already declared it Treaſon; though not by a perticular Statute in tearmes: yet by a demonſtrative practice, which if his Lord<g ref="char:EOLhyphen"/>ſhip would not have beene willingly blind, had beene Buoy enough to keepe him from that Anchor of us all, which now muſt either hurt it ſelfe, or elſe ſplit him, the Parliament whoſe Courſes left upon Record cannot be taken for under water workes, ſo that a very eaſie honeſty and common morallity (with<g ref="char:EOLhyphen"/>out Revelation) might have ſerv'd as the red Croſſe and the Bill, to have warn'd him from this plague of Legicide.</p>
+            <p>I ſhall begge as hard as his Lordſhip, that you have regard to your ſelves, for if upon him (by whoſe authority, Peeres ſhall bee ſentenc'd to be ſhot, Nobles, curb'd &amp; coop'd up, Lawes ſubverted, Freehold diſpoſed of out of the Courts, Grants under the Royall Seale extrajudicially diſanul'd, and what may be profit of, Monopoliz'd) you ſet not ſome everlaſting Character, to deter the like front<g ref="char:EOLhyphen"/>leſſe
+<pb n="4" facs="tcp:45175:4"/>attempts; I know not but the next com<g ref="char:EOLhyphen"/>mer, may ſubjugate your deareſt freedomes, and as remedileſſe you may then complaine, as thoſe who now doe ſuffer, and have not yet found a redreſſe.</p>
+            <p>My Lords under favour, your providence may be ſhort, if it reach but to burning of Bookes: a fire of dead leaves will bee too weake a fuell for a warning Beacon: A living Authour made exemplary will afford a Taller flame, and if there were no other Law, that of Retaliation could not but be juſt; an Ar<g ref="char:EOLhyphen"/>bitrary ſentence, were but plowing with his owne Heyfer; Who ſtriving to ſeclude the Lawes, would inferre a kinde of legall Tyran<g ref="char:EOLhyphen"/>ny, from a breaſt that is a Libertine. And therefore your Lordſhips I perſwade my ſelfe, will thinke it mightily fit, to caſt this <hi>Ionas</hi> overboard, who hath occaſioned all theſe ſtormes, indangered all the ſacred ſhip of Go<g ref="char:EOLhyphen"/>vernment, and by flying the plaine ſpeaking Law, has dar'd by his Imperious Vote, to out<g ref="char:EOLhyphen"/>goe even all the bold attempts of Anceſtry.</p>
+            <p>It is ſome comfort to us, that in 240. years, we have had no uſe of theſe venerable (though by him reviled for muſty) Records. The Common-wealth has had the fewer enemies. And if they worke now but a merited opera<g ref="char:EOLhyphen"/>tion,
+<pb n="5" facs="tcp:45175:4"/>I hope it may be 500. yeares ere any of ſo bold a brow, ſhall deſperatly againe adven<g ref="char:EOLhyphen"/>ture to awake them.</p>
+            <p>And if his Lordſhip be not made a preſident for puniſhment: I know not but hee may prove a Preſident for example, to animate others of a Vafrous and preſuming braine, to take up the ſame way from a pleaſurable bo<g ref="char:EOLhyphen"/>ſome, to doome both Nobles, and the Com<g ref="char:EOLhyphen"/>mons, into a State of deepe calamity. And ſo your Lordſhips lenity to him, may by indulgence wound a future multitude. His many crimes which you have heard fully pro<g ref="char:EOLhyphen"/>ved, will immortallize your Peerage for a no<g ref="char:EOLhyphen"/>ble Iuſtice. The learned Orator has antiently told us, that <hi>Non poteſt cuiquam male de Rupub. merenti, iuſta eſſe cauſa.</hi> And though it be ſe<g ref="char:EOLhyphen"/>vere, it cannot be unrighteous, for <hi>Hoc ſpe<g ref="char:EOLhyphen"/>ctant Leges, Hoc volunt; incolumem eſſe Civium Coniunctionem, quam qui dirimunt, eos morte, exilio, vinculis, damno, coercent.</hi>
+            </p>
+            <p>Thus every man will know what channell to ſteere in, what rocks to avoyd, what he is not to doe, what he is not to ſay for feare of mee<g ref="char:EOLhyphen"/>ting ſuch paines.</p>
+            <p>Thus men of honeſt wiſdome, will be cau<g ref="char:EOLhyphen"/>tious of keeping in the plaine rode of the Law, and never hazard (by croſſing through
+<pb n="6" facs="tcp:45175:5"/>untroden Thickets) either Honour, Iſſue, or fortune, to a loſſe. What his Majeſtie may graciouſly intend to the pledge of his Sainct, will reſt in his moſt Royall heart: Though I hope the want of a Midwife did not make her one,, nor his marriage within a moneth after her deceaſe did ere make him account her ſo.</p>
+            <p>And now (my Lords) wee ſhall humbly expect your Honorable Iudgements, beſee<g ref="char:EOLhyphen"/>ching you will bee nobly pleaſed to defend thoſe Lawes which have ever defended you, to have reſpect to your owne future liberty, and the ſafety of theſe flouriſhing Kingdomes: Then what ever your ſentence be,
+<q>
+                  <l>Te Deum laudamus Cantemus Iehovae, clangamus</l>
+                  <l>te Deum confitemur. Rupibus, ſalutis noſtrae.</l>
+               </q>
+            </p>
+            <trailer>FJNIS.</trailer>
+            <pb facs="tcp:45175:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
